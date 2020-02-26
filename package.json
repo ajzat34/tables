@@ -1,0 +1,24 @@
+{
+  "name": "tableprint",
+  "version": "1.0.0",
+  "description": "table formating",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzat34/tables.git"
+  },
+  "keywords": [
+    "table",
+    "print",
+    "format"
+  ],
+  "author": "ajzat34",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajzat34/tables/issues"
+  },
+  "homepage": "https://github.com/ajzat34/tables#readme"
+}
